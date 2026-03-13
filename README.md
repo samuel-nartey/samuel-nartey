@@ -17,7 +17,28 @@ DevSecOps Engineer,Trainer & Certified AWS Solutions Architect | CI/CD, IaC, Clo
 [![Observability & Monitoring](https://img.shields.io/badge/Observability-Monitoring-purple?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/) 
 [![Grafana](https://img.shields.io/badge/Grafana-Dashboard-orange?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/) 
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Tracing-lightgrey?style=for-the-badge&logo=opentelemetry&logoColor=black)](https://opentelemetry.io/)  
-
+[![AWS](https://skillicons.dev/icons?i=aws)]()
+[![Azure](https://skillicons.dev/icons?i=azure)]()
+[![Docker](https://skillicons.dev/icons?i=docker)]()
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)]()
+[![Docker](https://skillicons.dev/icons?i=docker)]() <!-- Docker Compose -->
+[![Terraform](https://skillicons.dev/icons?i=terraform)]()
+[![CloudFormation](https://skillicons.dev/icons?i=cloudformation)]()
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)]()
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)]()
+[![Trivy](https://skillicons.dev/icons?i=trivy)]()
+[![OWASP ZAP](https://skillicons.dev/icons?i=owaspzap)]()
+[![OWASP Dependency Check](https://skillicons.dev/icons?i=owaspdepcheck)]()
+[![SonarQube](https://skillicons.dev/icons?i=sonarqube)]()
+[![Git](https://skillicons.dev/icons?i=git)]()
+[![GitHub](https://skillicons.dev/icons?i=github)]()
+[![Argo](https://skillicons.dev/icons?i=argo)]()
+[![Prometheus](https://skillicons.dev/icons?i=prometheus)]()
+[![Grafana](https://skillicons.dev/icons?i=grafana)]()
+[![Loki](https://skillicons.dev/icons?i=loki)]()
+[![Linux](https://skillicons.dev/icons?i=linux)]()
+[![Bash](https://skillicons.dev/icons?i=bash)]()
+[![Python](https://skillicons.dev/icons?i=python)]()
 ---
 
 ## Projects and Repositories
