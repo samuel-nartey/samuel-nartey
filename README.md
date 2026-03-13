@@ -22,13 +22,13 @@ DevSecOps Engineer,Trainer & Certified AWS Solutions Architect | CI/CD, IaC, Clo
 
 ## Projects and Repositories
 
-This profile showcases repositories containing:
+## 🚧 Currently Building
 
-- Production-oriented cloud infrastructure implementations  
-- Automated deployment pipelines and CI/CD workflows  
-- Kubernetes-based container orchestration  
-- Secure, compliant AWS architecture projects  
-- Open-source contributions and experiments  
+[![DevSecOps Pipeline](https://img.shields.io/badge/DevSecOps-CI%2FCD%20Pipeline%20%2B%20Security%20Scanning-red?style=for-the-badge&logo=githubactions&logoColor=white)]()
+
+[![Kubernetes GitOps](https://img.shields.io/badge/Kubernetes-GitOps%20Deployment%20with%20ArgoCD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
+
+[![Terraform Infrastructure](https://img.shields.io/badge/Terraform-AWS%20Infrastructure%20Automation-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)]()
 
 *(Check pinned repositories for featured projects.)*  
 
